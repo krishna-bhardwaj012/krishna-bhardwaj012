@@ -17,17 +17,17 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 
 <br>
 <p align='center'>
-<a href="mailto:singhshiv0427@gmail.com" target="_blank">
+<a href="mailto:kb776391@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/" target="_blank">
+<a href="https://www.linkedin.com/in/krishna-bhardwaj-3b1239344/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.reddit.com/user/Recent_Cellist_8103/" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
- <a href="https://www.facebook.com/singhshiv01" target="_blank">
+ <a href="" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="https://x.com/1amWaziR" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp; 
-<p align='center'>
+  <a href="R" target="_blank">
+<!-- <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp; 
+<p align='center'> -->
 
 ## 🏆 Highlights / Recent Work
 
