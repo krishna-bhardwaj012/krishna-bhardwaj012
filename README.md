@@ -66,15 +66,41 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 ## 📈 GitHub Stats
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="krishna-bhardwaj012" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="krishna-bhardwaj012" /></p>
-<p align='center'>
-   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/></a>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <!-- Left side: Streak + Stats -->
+      <td width="50%">
+        <p align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="Streak" />
+        </p>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="Stats" />
+        </p>
+      </td>
+
+      <!-- Right side: Languages -->
+      <td width="50%">
+        <p align="center">
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
   <br/>
 
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10">
-</p>
+  <!-- Activity Graph below -->
+  <a href="https://github.com/krishna-bhardwaj012">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/>
+  </a>
+
+</div>
+
+
+
 
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
@@ -89,15 +115,6 @@ I welcome contributions and collaboration — from feature ideas to code reviews
 - ⭐ Star repositories you like and open issues for bugs/feature requests.
 - 🛠️ I’m happy to mentor on Java/JS basics and help with small code reviews.
 - If you want to collaborate: open an issue or send a PR — I usually respond quickly.
-
-## 📫 Connect with me
-
-- LinkedIn: `https://www.linkedin.com/in/<your-link>`
-- Email: `your.email@example.com`
-- Twitter: `https://twitter.com/<your-handle>`
-- Resume: `link-to-your-resume.pdf`
-
-> Replace placeholders above with your real links so visitors can reach you.
 
 ## ⚡ Fun facts
 
