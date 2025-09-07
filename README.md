@@ -10,8 +10,8 @@
 
 I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and user-friendly web applications. I enjoy solving problems end-to-end — from data modeling and backend APIs to responsive UI and deployment. I actively work with Java, JavaScript/React, Node.js, Spring Boot and MySQL.
 
-- 🔭 Working on: full-stack projects (React + Node/Express + MySQL) and Spring Boot apps.
-- 🌱 Learning: advanced Java concepts, Spring Boot microservices, and production-grade React patterns.
+- 🔭 Working on: full-stack projects (React + Node/Express + MySQL) .
+- 🌱 Learning: advanced Java concepts and production-grade React patterns.
 - 💬 Ask me about: Java, JDBC, SQL, web scraping, and building multi-step React flows.
 - ⚡ Fun: I love automating things — scrapers, data pipelines, and small AI-assisted tools.
 
@@ -34,18 +34,18 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 - **Library Management System** — Full web app (Register → Login → Book CRUD → Search by author/book) using **MySQL** and plain JS frontend.
 - **VENDOR_BOOK** — Full-stack React + Node.js + MySQL project for vendor catalog & PDF generation flows.
 - **Social Media Posting Scheduler (restaurant-focused)** — React (Vite) frontend + Node backend with AI-driven caption/image ideas and calendar scheduling.
-- **Web Scraping Suite** — Multiple scrapers (Java & Python + Selenium / BeautifulSoup / Instaloader) for hotels, Instagram profiles, news and contacts; saved to MySQL.
+- **Web Scraping Suite** — Multiple scrapers (Java & Python + Selenium / Instaloader) for hotels, Instagram profiles, news and contacts; saved to MySQL.
 - **Multi-step Form → PDF** — React Context based multi-step form that collects images & financials and produces a styled PDF.
 
 ## 🧰 Tech Stack
 
-**Languages:** Java · JavaScript (ES6+) · SQL · HTML · CSS · Python (for scraping)  
-**Frontend:** React (Vite) · HTML/CSS · Vanilla JS · Fetch API  
-**Backend:** Node.js · Express · Spring Boot (Java)  
+**Languages:** Java · JavaScript (ES6+) · SQL · HTML · CSS ·/ Python (for scraping)  
+**Frontend:** React (Vite) · HTML/CSS · Fetch API  
+**Backend:** Node.js · Express · (Java)  
 **Databases:** MySQL · (basic experience: Workbench, local instance)  
-**Tools & DevOps:** Git · GitHub · IntelliJ IDEA · VS Code · Postman · Docker (basics)  
+**Tools & DevOps:** Git · GitHub · IntelliJ IDEA · VS Code · Postman (basic)  
 **Testing / QA:** Postman for APIs, unit tests (where applicable)  
-**Other:** Selenium, BeautifulSoup, Instaloader, PDF generation libraries
+**Other:** Selenium, Instaloader, PDF generation libraries
 
 <p align="center"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
