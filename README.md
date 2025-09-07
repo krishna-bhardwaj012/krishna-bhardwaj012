@@ -66,17 +66,37 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 ## 📈 GitHub Stats
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="krishna-bhardwaj012" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="krishna-bhardwaj012" /></p>
-<p align='center'>
-   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/></a>
+
+<div align="center">
+
+  <!-- Streak + Stats + Languages side by side -->
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="Streak" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
   <br/>
 
-<p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10">
-</p>
+  <!-- Activity Graph below -->
+  <a href="https://github.com/krishna-bhardwaj012">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/>
+  </a>
 
-<p align='center'>
+</div>
+
+
+
+
+ 
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
 
