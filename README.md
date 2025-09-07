@@ -19,28 +19,14 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 <p align='center'>
 <a href="mailto:singhshiv0427@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
-<p align='center'>
 <a href="https://www.linkedin.com/in/shiv-shankar-singh-2070521ba/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
-<p align='center'>
 <a href="https://www.reddit.com/user/Recent_Cellist_8103/" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
-<p align='center'>
  <a href="https://www.facebook.com/singhshiv01" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
-<p align='center'>
   <a href="https://x.com/1amWaziR" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp;
- 
- 
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;&nbsp; 
 <p align='center'>
 
 ## 🏆 Highlights / Recent Work
@@ -119,6 +105,26 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="krishna-bhardwaj012" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="krishna-bhardwaj012" /></p>
+
+## 📊 Github Activity
+
+<br/>
+   <!--<a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=krishna-bhardwaj012&custom_title=Shiv's%20%20Graph&hide_border=true&theme=react-dark"/></a>-->
+   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true&hide_border=true"/></a>
+  <br/>
+<br/>
+
+## 📚 Most Used Languages
+
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+
+<hr>
 
 ## 🤝 Open Source & Collaborations
 
