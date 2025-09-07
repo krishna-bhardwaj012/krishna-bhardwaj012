@@ -66,38 +66,22 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 ## 📈 GitHub Stats
 
 <br/>
-
-<div align="center">
-
-  <table>
-    <tr>
-      <!-- Left side: Streak + Stats -->
-      <td width="50%">
-        <p align="center">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="Streak" />
-        </p>
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="Stats" />
-        </p>
-      </td>
-
-      <!-- Right side: Languages -->
-      <td width="50%">
-        <p align="center">
-          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10" alt="Top Languages" />
-        </p>
-      </td>
-    </tr>
-  </table>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="krishna-bhardwaj012" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="krishna-bhardwaj012" /></p>
+<p align='center'>
+   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/></a>
   <br/>
 
-  <!-- Activity Graph below -->
-  <a href="https://github.com/krishna-bhardwaj012">
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/>
-  </a>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10">
+</p>
 
-</div>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+
+<hr>
+
 
 
 
