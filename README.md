@@ -63,63 +63,19 @@ I'm a **Full-Stack Web Developer** focused on building clean, maintainable, and 
 </p>
 <br>
 
-<!-- ## 🔭 Featured Projects
-
-### 1. Library Management System
-**Tech:** Spring Boot · MySQL · HTML/CSS · JavaScript
-**What:** User registration & login, add/update/delete books, search by author/book, session management and logout.
-**Why it's neat:** Real-world CRUD flows, session handling, and a clean separation of frontend & backend logic.
-**Repo / Demo:** `replace-with-repo-link`
-
-
-### 2. VENDOR_BOOK (VendorBook)
-**Tech:** React (Vite) · Node.js · Express · MySQL
-**What:** Responsive vendor information site with multi-step forms and PDF generation (collects logo, social links, finances, etc.).
-**Why it's neat:** Multi-step React Context + file uploads + final PDF generation of the collected data.
-**Repo / Demo:** `replace-with-repo-link`
-
-
-### 3. Social Media Posting Scheduler (Restaurant)
-**Tech:** React · Node.js · MySQL · AI prompts
-**What:** Scheduler that suggests daily Kerala-themed content, generates captions, and integrates with calendar UI for scheduling.
-**Why it's neat:** Combines local authenticity, AI-driven content ideas, and calendar scheduling for automation.
-**Repo / Demo:** `replace-with-repo-link`
-
-
-### 4. Web Scraping Suite
-**Tech:** Java (Selenium) & Python (Selenium + BeautifulSoup) · MySQL
-**What:** Scrapers for hotels (MakeMyTrip-style), Instagram profile scrapers using Instaloader, and contact scrapers that store metadata in MySQL.
-**Why it's neat:** Practical ETL pipeline: scrape → clean → store → query.
-**Repo / Demo:** `replace-with-repo-link`
-
-
-### 5. Multi-step React Form → PDF
-**Tech:** React Context · HTML Canvas / jsPDF · File handling
-**What:** Collects company/logo/financials across multiple steps and generates a final styled PDF including images.
-**Why it's neat:** Real-world form flows and a reproducible PDF generation approach for client deliverables.
-**Repo / Demo:** `replace-with-repo-link`
- -->
-
 ## 📈 GitHub Stats
 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-bhardwaj012&theme=algolia" alt="krishna-bhardwaj012" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishna-bhardwaj012&show_icons=true&locale=en&theme=algolia" alt="krishna-bhardwaj012" /></p>
-
-## 📊 Github Activity
-
-<br/>
-   <!--<a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=krishna-bhardwaj012&custom_title=Shiv's%20%20Graph&hide_border=true&theme=react-dark"/></a>-->
-   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true&hide_border=true"/></a>
-  <br/>
-<br/>
-
-## 📚 Most Used Languages
-
-<br>
 <p align='center'>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+   <a href="https://github.com/krishna-bhardwaj012"><img alt="Shiv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-bhardwaj012&bg_color=050f2c&color=ffffff&line=2dde98&point=00aeff&area=true"/></a>
+  <br/>
+
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=krishna-bhardwaj012&theme=algolia&no-bg=true&no-frame=true&langs_count=10">
 </p>
+
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
 </p>
